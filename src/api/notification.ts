@@ -1,4 +1,4 @@
-import { Database } from "./base";
+import { Database } from "./base.ts";
 
 export class Notification {
    db: Database;
